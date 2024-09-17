@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/bbachi/react-nodejs-example#readme",
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "http-proxy-middleware": "^1.0.4"
   },
   "devDependencies": {
